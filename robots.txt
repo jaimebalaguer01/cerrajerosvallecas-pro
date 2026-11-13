@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cerrajerosvallecas.pro/sitemap.xml
